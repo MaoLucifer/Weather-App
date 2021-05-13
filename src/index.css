@@ -6,6 +6,8 @@
 
 body {
   font-family: 'montseratt', sans-serif;
+  width: 50%;
+  margin: auto;
 }
 
 /* App */
