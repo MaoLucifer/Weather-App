@@ -66,7 +66,7 @@ function App() {
         </div>
         ) : (
           <div className="empty-box">
-            Missing location...
+           For the best experience view on mobile or in Dev Tooks Mobile View
           </div>
         )}
       </main>
